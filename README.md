@@ -1,6 +1,8 @@
 ## 前端基础知识汇总
 
-### 基础面试题
+### 源码架构知识点
+1.[everst-vue合集](http://zhufengpeixun.com/jg-vue/)
+2.[跟若川学源码](https://www.lxchuan12.cn/)
 
 ### 面试站点收集
 
