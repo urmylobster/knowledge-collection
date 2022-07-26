@@ -30,6 +30,8 @@
 
 4.[剑指前端offer](https://hzfe.github.io/awesome-interview/)
 
+5.[Jian的前端blog](https://www.wangjxk.top/frontend/js/)
+
 ### 前端学习路线
 1.[大圣的前端学习路线图](https://shengxinjing.cn/)
 
