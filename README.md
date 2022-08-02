@@ -35,9 +35,11 @@
 ### 前端学习路线
 1.[大圣的前端学习路线图](https://shengxinjing.cn/)
 
-2.[objtube的前端学习路线](https://objtube.github.io/front-end-roadmap/#/)
+2.[千古壹号的前端路线知识](https://web.qianguyihao.com)
 
-3.[roadmap.sh的frontend路线](https://roadmap.sh/frontend)
+3.[objtube的前端学习路线](https://objtube.github.io/front-end-roadmap/#/)
+
+4.[roadmap.sh的frontend路线](https://roadmap.sh/frontend)
 ### vscode刷题插件
 1.[珠峰架构每日一题](https://marketplace.visualstudio.com/items?itemName=everest-architecture.front-end-daily-question)
 
